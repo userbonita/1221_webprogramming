@@ -1,0 +1,12 @@
+
+        <style> 
+           #grid1{
+                display: grid;
+                grid-template-rows:1fr 1fr;
+           }
+           #grid2{
+                 display:grid;
+                 grid-template-columns: 1fr 1fr;
+            }  
+        </style>
+

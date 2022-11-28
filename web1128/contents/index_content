@@ -1,0 +1,19 @@
+
+<div id="grid1">
+<span class="span" style="font-weight:bold; border-right:1px black solid">
+    <a href="web1.jpg" target="ifr1">1</a>
+    <br>
+</span>
+
+<span class="span">
+    <span>
+    <iframe src="web1.jpg" name="ifr1"frameborder="0" width="80%" height="60%"></iframe>
+    
+</span>
+<br>
+<span>
+    <span style="font-size: 15px; font-weight:bold">URL :</span></span>&nbsp;&nbsp;&nbsp;
+    <a href=" https://userbonita.github.io/my-web-site/" style="color: blue;">https://userbonita.github.io/my-web-site/</a>
+</span>
+</span>
+</div>

@@ -1,0 +1,54 @@
+
+        <div id="grid1">
+            <div style="padding:20px;">
+                <span style="font-size: 20px; font-weight: bold;">사진</span>
+                <br>
+                <br>
+                <img src="profile.jpg" title="증명사진" alt="대표 이미지" width="150" height="150" >
+                <br>
+                <br>
+                <span style="font-weight:bold; text-align: center;">학력</span>
+                <span></span>
+                <br>
+                <span style="font-weight:bold; text-align: center;">전공</span>
+                <span></span>
+                <br>
+                <span style="font-weight:bold; text-align: center;">복수 전공</span>
+                <span></span>
+            </div>
+    
+            <div style="border-left:1px black solid; border-right:2px black solid;  padding:20px;">
+                <span style="font-weight:bold;  font-size: 20px;">나의 좌우명</span>
+                <br>
+                <br>
+                <span style="font-family:cursive"> </span>   
+            </div>
+    
+            <div style="border:1px black solid; border-left:0; padding:20px;">
+                
+                <span style="font-weight:bold; font-size: 20px;">나의 장점</span>
+                <img src="smile.jpg" alt="웃는 아이콘" width="17px" >
+                <br>
+                <ul>
+                    
+                </ul>
+            </div>
+    
+            <div style="border-top:1px black solid; border-bottom:1px solid black; border-right:2px black solid; padding:20px;">
+                <span style="font-weight:bold;  font-size: 20px;">나의 단점</span>
+                <img src="cry.jpg" alt="우는 아이콘" width="17px">
+                <br>
+                <ul>
+
+                </ul>
+            </div>
+    
+            <div style="padding:20px; border-bottom:2px black solid;">
+                <span style="font-weight:bold;  font-size: 20px;">최종 수정일 </span> 
+                <span >22년 6월 19일</span> 
+            </div>
+            <div  style="border-bottom:2px black solid; border-right:2px black solid;">
+    
+            </div>
+            </div>
+    
