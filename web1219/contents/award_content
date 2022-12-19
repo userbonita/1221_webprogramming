@@ -1,0 +1,27 @@
+
+            <div id="grid1">
+                <div id="grid3" style="border-bottom:1px solid black; border-right:2px solid black;">
+                    <iframe src="1.jpg" name="ifr1" frameborder="0" width="100%" height="100%"></iframe>
+                </div>
+                <div id="grid2" style="border-bottom:2px solid black; border-right:2px solid black;">
+                    <div style="border-right:1px solid black;">
+                        <div style="font-weight: bold;font-size: 20px; padding-left:10px; padding:20px; ">
+                            수상 대회
+                        </div>
+                        <ul>
+                            <li><a href="award1.html" target="ifr1">대회1</a></li>
+                            <li><a href="award2.html" target="ifr1">대회2</a></li>
+                        </ul>
+
+                    </div>
+                    <div>
+                        <div style="font-weight: bold;font-size: 20px; padding-left:10px; padding:20px;">
+                            계획 중인 대회
+                        </div>
+                        <ul>
+                            <li>대회3</li>
+                            <li></li>
+                        </ul>
+                    </div>              
+                </div>
+            </div>

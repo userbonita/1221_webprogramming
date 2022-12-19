@@ -1,0 +1,11 @@
+<style>
+#grid1{
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    border-right:2px black solid;
+    border-bottom:2px black solid;
+}
+.span{
+    padding: 5px;
+}
+</style>    

@@ -1,0 +1,19 @@
+
+        <style> 
+          #grid1{
+               display: grid;
+               grid-template-rows: 50px 1fr;
+               height: 822px;
+               border-bottom: 2px black solid;
+               border-right: 2px black solid;
+          }
+          #grid2{
+               display: grid;
+               grid-template-columns: 1fr 4fr;
+          }
+          .grid3{
+               display: grid;
+               grid-template-columns: 1fr 4fr;;
+          }
+       </style>
+ 
